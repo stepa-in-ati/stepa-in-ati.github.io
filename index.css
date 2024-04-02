@@ -1,0 +1,26 @@
+body {
+    background-color: aliceblue;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 4px;
+    align-items: center;
+}
+
+.stepa-left {
+    /*display: none;*/
+    position: fixed;
+    left: -27%;
+    top: 5%;
+    /*rotate: 45deg;*/
+}
+
+.stepa-right {
+    /*display: none;*/
+    position: fixed;
+    right: -27%;
+    top: 50%;
+    /*rotate: -45deg;*/
+}
