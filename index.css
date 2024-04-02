@@ -12,7 +12,7 @@ body {
 .stepa-left {
     /*display: none;*/
     position: fixed;
-    left: -27%;
+    left: -25%;
     top: 5%;
     /*rotate: 45deg;*/
 }
@@ -20,7 +20,7 @@ body {
 .stepa-right {
     /*display: none;*/
     position: fixed;
-    right: -27%;
+    right: -25%;
     top: 50%;
     /*rotate: -45deg;*/
 }
